@@ -53,9 +53,6 @@
 * Revert
 * Reset
 * Clean
-=============================================================================================================
-Overview of GIT:
-=============================================================================================================
-GIT: Global interaction Tool
-Git is an source code management tool to store any important files, directories, images etc which uses
-distributed version control system mechanism for proper tracking and also benefit of storage cost optimization.
+
+add work is TO-DO list
+Automation is in progress
